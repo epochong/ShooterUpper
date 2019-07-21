@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/cn/yichun/game/Explode.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/cn/yichun/game/ExplodeLight.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/cn/yichun/game/GameUtil.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/cn/yichun/game/MyGameFrame.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/cn/yichun/game/MyLight.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/cn/yichun/game/MyShell.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/cn/yichun/game/Plane.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/cn/yichun/game/Shell.java" charset="GBK" />
+  </component>
+</project>
